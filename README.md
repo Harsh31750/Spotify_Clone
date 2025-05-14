@@ -61,7 +61,7 @@ Spotify-Clone/
 ---
 
 🚀 How to Run
-1. Clone the repository  : git clone https://github.com/Harsh31750/Spotify-Clone.git
+1. Clone the repository  : git clone https://github.com/Harsh31750/Spotify_Clone.git
 
 2. Open `index.html` in your browser
 
