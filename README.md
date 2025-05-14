@@ -75,6 +75,7 @@ Spotify-Clone/
 ---
 
  🙌 Acknowledgements
+ 
 Inspired by Spotify's design and functionality.
 
 ---
