@@ -36,7 +36,7 @@ A fully responsive and interactive Spotify Clone built using **HTML**, **CSS**, 
 ---
 
 📂 Project Structure
-
+```
 Spotify-Clone/
 ├── index.html
 ├── style.css
@@ -45,6 +45,7 @@ Spotify-Clone/
 │   ├── songs/
 │   ├── icons/
 │   └── covers/
+```
 
 ---
 
